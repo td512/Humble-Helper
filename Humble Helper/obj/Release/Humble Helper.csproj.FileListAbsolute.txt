@@ -3,3 +3,8 @@ M:\GitHub\Humble Helper\Humble Helper\bin\Release\Humble Helper.pdb
 M:\GitHub\Humble Helper\Humble Helper\obj\Release\Humble Helper.csprojAssemblyReference.cache
 M:\GitHub\Humble Helper\Humble Helper\obj\Release\Humble Helper.dll
 M:\GitHub\Humble Helper\Humble Helper\obj\Release\Humble Helper.pdb
+M:\GitHub\Humble-Helper\Humble Helper\bin\Release\Humble Helper.dll
+M:\GitHub\Humble-Helper\Humble Helper\bin\Release\Humble Helper.pdb
+M:\GitHub\Humble-Helper\Humble Helper\obj\Release\Humble Helper.csprojAssemblyReference.cache
+M:\GitHub\Humble-Helper\Humble Helper\obj\Release\Humble Helper.dll
+M:\GitHub\Humble-Helper\Humble Helper\obj\Release\Humble Helper.pdb
